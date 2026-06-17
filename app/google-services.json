@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407072767037",
+    "project_id": "twitter-f6d6b",
+    "storage_bucket": "twitter-f6d6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407072767037:android:1fb67ebdcfead3f8273e54",
+        "android_client_info": {
+          "package_name": "com.humblesolutions.twitter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKvmhaUV2YUnzvgRGEjyBBuRxs5RhkO0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
